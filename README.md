@@ -1,0 +1,1 @@
+Doctor Services — Software Engineering Course Project: Developed a front-end prototype for a hospital management system, with interfaces for appointments, doctor profiles, sessions, and dashboard/settings. Technologies: HTML, CSS, and JavaScript.
